@@ -1,4 +1,4 @@
-# reviews-sentiment-analyzer
+# Reviews-sentiment-analyzer
 🛍️ E-commerce Review Sentiment Analyzer
 A Streamlit-based web application for performing AI-driven sentiment analysis on customer reviews from any e-commerce platform. The tool uses Logistic Regression and TF-IDF to classify reviews as positive, neutral, or negative, and identifies common product-related issues from negative feedback.
 
