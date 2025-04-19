@@ -3,32 +3,32 @@
 A Streamlit-based web application for performing AI-driven sentiment analysis on customer reviews from any e-commerce platform. The tool uses Logistic Regression and TF-IDF to classify reviews as positive, neutral, or negative, and identifies common product-related issues from negative feedback.
 
 🔧 Features:
-Upload CSV files with customer reviews
+- Upload CSV files with customer reviews
 
-Automatic detection of review text column
+- Automatic detection of review text column
 
-Text preprocessing (cleaning, tokenization, stopword removal)
+- Text preprocessing (cleaning, tokenization, stopword removal)
 
-Sentiment prediction using machine learning
+- Sentiment prediction using machine learning
 
-Visual sentiment distribution chart
+- Visual sentiment distribution chart
 
-Extraction of frequent complaint keywords from negative reviews
+- Extraction of frequent complaint keywords from negative reviews
 
-Downloadable CSV with sentiment labels
+- Downloadable CSV with sentiment labels
 
 🧠 Tech Stack:
-Python
+- Python
 
-Streamlit
+- Streamlit
 
-NLTK
+- NLTK
 
-Scikit-learn
+- Scikit-learn
 
-Pandas
+- Pandas
 
 📂 Files:
-model1.py: Main app script
+- model1.py: Main app script
 
-flipkart.csv: Example dataset (can be replaced with any e-commerce review dataset)
+- flipkart.csv: Example dataset (can be replaced with any e-commerce review dataset)
